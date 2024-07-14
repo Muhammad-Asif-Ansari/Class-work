@@ -1,0 +1,18 @@
+.main{
+    background-color: rgb(228, 130, 11);
+    height: 100px;
+    width: 100px;
+}
+.test{
+    background-color: rgb(252, 193, 126);
+    height: 100px;
+    width: 100px;
+}
+table {
+    border-spacing: 0rem;
+    border: 5px solid black;
+  }
+  table td img{
+    width: 100px;
+    height: 100px;
+  }
